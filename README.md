@@ -3,3 +3,8 @@
 This is a project we're using to learn about the team git workflow
 
 This is Mira's contribution
+
+## Anton was here
+
+function sayHello(name)
+return "hello" + name
